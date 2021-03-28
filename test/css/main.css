@@ -1,0 +1,150 @@
+  * {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1408px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 10px;
+    padding: 0 50px;
+    margin: 0 200px;
+}
+.head {
+    /* counter-reset: 0px; */
+    font-size: 13px;
+}
+.head1 {
+    counter-reset: 0px;
+    font-size: 14px;
+    font-weight: 800;
+}
+.fon {
+    height: 100%;
+    background-image: url(../img/Фон.png);
+    background-image: url(../img/2.png);
+}
+.cow {
+    margin: 100px 250px;
+    display: flex;
+}
+.line {
+    font-size: 16px;
+    font-weight: 1000;
+    line-height: 40px;
+}
+.second-line {
+    font-size: 20px;
+    font-weight: 100;
+    margin: 0 1px;
+}
+.h1 {
+    font-size: 40px;
+    font-weight: 800;
+    padding-left: 220px;
+    margin: 0 230px;
+}
+.text {
+    padding-left: 80px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.img1 {
+    width: 490px;
+    height: 280px;
+}
+.pop {
+    background-color: orange;
+    border: chocolate;
+    color: white;
+    padding: 9px;
+}
+.pip {
+    padding: 7px;
+}
+.text1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.main_top {
+    display: flex;
+    justify-content: center;
+}
+.lamp {
+    width: 420px;
+    height: 530px;
+    padding-top: 60px;
+}
+.txt1 {
+    text-align: center;
+    max-width: 594px;
+    margin: 35px auto;
+    margin-bottom: 0px;
+}
+.txt2 {
+    text-align: center;
+    max-width: 594px;
+    margin: 35px auto;
+    margin-bottom: 0px;
+}
+.txt3 {
+    text-align: center;
+    max-width: 594px;
+    margin: 35px auto;
+    margin-bottom: 0px;
+}
+.photo1 {
+    background-image: url(../img/4.png);
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+.photo2 {
+    background-image: url(../img/5.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+.photo3 {
+    background-image: url(../img/6.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+.photo4 {
+    background-image: url(../img/7.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+.photo5 {
+    background-image: url(../img/8.png);
+    background-repeat: no-repeat;
+    padding-top: 120px;
+}
+.photo6 {
+    background-image: url(../img/9.png);
+    background-repeat: no-repeat;
+    padding-top: 120px;
+}
+.photo {
+    width: 260px;
+    height: 40px;
+    padding-bottom: 20px;
+}
+.photo_list {
+    display: flex;
+    padding-bottom: 5px;
+}
+.last-txt {
+    padding-right: 140px;
+}
+.partners {
+    padding-bottom: 10px;
+}
+.mmg {
+    padding-bottom: 100px;
+}
